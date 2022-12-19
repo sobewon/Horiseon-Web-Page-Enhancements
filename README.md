@@ -10,8 +10,8 @@ html code has been edited to follow accessibility standards.
   - Search Engine Optimization navigation link was fixed.
   - Comments have been added to the html to identify code better.
 
-
-![Finished Horiseon webpage screenshot](/assets/readme%20images/horiscreenshot.png)
-
-### Link to page
+## Link to page
 [Horiseon base webpage](https://github.com/sobewon/Horiseon-Web-Page-Enhancements)
+
+## Screenshot of webpage
+![Finished Horiseon webpage screenshot](/assets/readme%20images/horiscreenshot.png)
