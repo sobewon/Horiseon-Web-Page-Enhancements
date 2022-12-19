@@ -11,7 +11,7 @@ html code has been edited to follow accessibility standards.
   - Comments have been added to the html to identify code better.
 
 ## Link to page
-[Horiseon base webpage](https://github.com/sobewon/Horiseon-Web-Page-Enhancements)
+[Horiseon base webpage](https://sobewon.github.io/Horiseon-Web-Page-Enhancements/)
 
 ## Screenshot of webpage
 ![Finished Horiseon webpage screenshot](/assets/readme%20images/horiscreenshot.png)
